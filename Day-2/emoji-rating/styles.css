@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(45deg, #c4ff3c, #a4ff3c, #84ff3c, #64ff3c);
+}
+
+.feedback-container {
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    background-color: #f1f1f1;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+}
+
+.emoji-container {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 20%;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    overflow: hidden;
+}
+
+.far {
+    margin: 1px;
+    transform: translateX(0);
+    transition: transform 0.2s;
+}
+
+.rating-container {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 20%;
+}
+
+.rating-container .fa-star {
+    color: rgb(196, 196, 196);
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.rating-container .fa-star:hover {
+    color: gold;
+    cursor: pointer;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.fa-star.active {
+    color: gold;
+}
+

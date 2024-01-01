@@ -18,8 +18,12 @@ For the next 30 days, I'll be pushing my coding skills by building a new project
 ## Projects
 
 - [Day - 1 (Digital Clock)](./Day-1)
-  - [Live Demo](https://astonishing-pika-7e2f81.netlify.app/)
+  - [Live Demo](https://astonishing-pika-7e2f81.netlify.app)
   - [Code](./Day-1)
+
+- [Day - 2 (Emoji Rating)](./Day-2)
+  - [Live Demo](https://659322eb73b216ff46441bcd--mellow-puffpuff-59947f.netlify.app)
+  - [Code](./Day-2)
 
 
 ## How to Use
