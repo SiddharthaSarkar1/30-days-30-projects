@@ -25,6 +25,10 @@ For the next 30 days, I'll be pushing my coding skills by building a new project
   - [Live Demo](https://659322eb73b216ff46441bcd--mellow-puffpuff-59947f.netlify.app)
   - [Code](./Day-2)
 
+- [Day - 3 (Frosted Glass Effect)](./Day-3)
+  - [Live Demo](https://siddharthasid.github.io/frosted-glass-effect/)
+  - [Code](./Day-3)
+
 
 ## How to Use
 
