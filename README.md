@@ -29,6 +29,10 @@ For the next 30 days, I'll be pushing my coding skills by building a new project
   - [Live Demo](https://siddharthasid.github.io/frosted-glass-effect/)
   - [Code](./Day-3)
 
+- [Day - 3 (Frosted Glass Effect)](./Day-4)
+  - [Live Demo](https://siddharthasid.github.io/lets-multiply/)
+  - [Code](./Day-4)
+
 
 ## How to Use
 
