@@ -1,6 +1,6 @@
 # Frosted Glass Effect Project
 
-![Frosted Glass Effect](./img/screenshot.png)
+![Frosted Glass Effect](./img/frostedGlass2.png)
 
 Create a mesmerizing Frosted Glass Effect with this simple and stylish web project. Part of the #30Days30Projects coding challenge.
 
@@ -12,7 +12,7 @@ Create a mesmerizing Frosted Glass Effect with this simple and stylish web proje
 
 ## Screenshots
 
-![Frosted Glass Effect Screenshot](./img/screenshot.png)
+![Frosted Glass Effect Screenshot](./img/frostedGlass4.png)
 
 ## How to Use
 
