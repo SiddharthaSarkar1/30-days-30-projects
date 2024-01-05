@@ -37,6 +37,11 @@ For the next 30 days, I'll be pushing my coding skills by building a new project
   - [Live Demo](https://siddharthasid.github.io/image-gallery/)
   - [Code](./Day-5)
 
+- [Day - 6 (Roll The Dice)](./Day-6)
+  - [Live Demo](https://siddharthasid.github.io/roll-the-dice/)
+  - [Code](./Day-6)
+
+
 
 ## How to Use
 
