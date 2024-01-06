@@ -41,6 +41,9 @@ For the next 30 days, I'll be pushing my coding skills by building a new project
   - [Live Demo](https://siddharthasid.github.io/roll-the-dice/)
   - [Code](./Day-6)
 
+- [Day - 7 (Clock)](./Day-7)
+  - [Live Demo](https://siddharthasid.github.io/analog-clock/)
+  - [Code](./Day-7)
 
 
 ## How to Use
