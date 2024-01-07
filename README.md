@@ -45,6 +45,10 @@ For the next 30 days, I'll be pushing my coding skills by building a new project
   - [Live Demo](https://siddharthasid.github.io/analog-clock/)
   - [Code](./Day-7)
 
+- [Day -  (Stylish Calendar)](./Day-8)
+  - [Live Demo](https://siddharthasid.github.io/stylish-calendar/)
+  - [Code](./Day-8)
+
 
 ## How to Use
 
