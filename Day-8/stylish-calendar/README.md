@@ -21,7 +21,12 @@ The Stylish Calendar is a visually appealing calendar with a sleek design. It fe
 
 ## Project Screenshots
 
-![Stylish Calendar Screenshot](path/to/screenshot.png)
+![Stylish Calendar Screenshot](./img/Screenshot1.png)
+![Stylish Calendar Screenshot](./img/Screenshot2.png)
+![Stylish Calendar Screenshot](./img/Screenshot3.png)
+![Stylish Calendar Screenshot](./img/Screenshot4.png)
+![Stylish Calendar Screenshot](./img/Screenshot5.png)
+
 
 ## How to Run
 
