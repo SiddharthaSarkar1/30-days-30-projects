@@ -18,41 +18,54 @@ For the next 30 days, I'll be pushing my coding skills by building a new project
 ## Projects
 
 - [Day - 1 (Digital Clock)](./Day-1)
+
   - [Live Demo](https://astonishing-pika-7e2f81.netlify.app)
   - [Code](./Day-1)
 
 - [Day - 2 (Emoji Rating)](./Day-2)
+
   - [Live Demo](https://659322eb73b216ff46441bcd--mellow-puffpuff-59947f.netlify.app)
   - [Code](./Day-2)
 
 - [Day - 3 (Frosted Glass Effect)](./Day-3)
+
   - [Live Demo](https://siddharthasid.github.io/frosted-glass-effect/)
   - [Code](./Day-3)
 
 - [Day - 4 (Lets Multiply)](./Day-4)
+
   - [Live Demo](https://siddharthasid.github.io/lets-multiply/)
   - [Code](./Day-4)
 
 - [Day - 5 (Image Gallery)](./Day-5)
+
   - [Live Demo](https://siddharthasid.github.io/image-gallery/)
   - [Code](./Day-5)
 
 - [Day - 6 (Roll The Dice)](./Day-6)
+
   - [Live Demo](https://siddharthasid.github.io/roll-the-dice/)
   - [Code](./Day-6)
 
 - [Day - 7 (Clock)](./Day-7)
+
   - [Live Demo](https://siddharthasid.github.io/analog-clock/)
   - [Code](./Day-7)
 
 - [Day - 8 (Stylish Calendar)](./Day-8)
+
   - [Live Demo](https://siddharthasid.github.io/stylish-calendar/)
   - [Code](./Day-8)
 
 - [Day - 9 (Social Media Icons)](./Day-9)
+
   - [Live Demo](https://siddharthasid.github.io/social-media-icons/)
   - [Code](./Day-9)
 
+- [Day - 10 (Color Picker)](./Day-10)
+
+  - [Live Demo](#)
+  - [Code](./Day-10)
 
 ## How to Use
 
