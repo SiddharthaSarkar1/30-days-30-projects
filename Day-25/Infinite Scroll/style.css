@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Avro", sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background: #111111;
+  color: #ffffff;
+}
+.heading {
+  margin-bottom: 50px;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.container {
+  width: 320px;
+  margin: 0 auto;
+  background-color: #fff;
+  color: #111111;
+  text-align: center;
+}
+
+.item {
+  margin-bottom: 30px;
+}
+
+.char-id,
+.char-species {
+  width: 100%;
+  height: 60px;
+  background: #1e1ea5;
+  color: #fff;
+  display: grid;
+  place-items: center;
+  font-size: 25px;
+}
+
+.char-species {
+  margin-top: 30px;
+  background: #000;
+}
+
+.char-name {
+  margin: 1rem;
+  font-size: 20px;
+}
+
+.char-img {
+  width: 125px;
+  border-radius: 50%;
+}
