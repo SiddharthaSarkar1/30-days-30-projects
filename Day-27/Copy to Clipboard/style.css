@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Avro", sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background: #111111;
+  color: #ffffff;
+}
+.heading {
+  margin-bottom: 50px;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.container {
+  width: 450px;
+  padding: 30px 40px;
+  background-color: #ffbdbd;
+  color: #111111;
+  text-align: center;
+  border-radius: 8px;
+}
+.copy-text {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background: #fff;
+  border-radius: 8px;
+}
+input {
+  padding: 10px;
+  border: none;
+  font-size: 18px;
+  color: #555;
+  outline: none;
+  width: 90%;
+}
+button {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background: #2d2daf;
+  color: #fff;
+  font-size: 18px;
+  outline: none;
+  cursor: pointer;
+}
+button:active {
+  background: #ff0000;
+}
