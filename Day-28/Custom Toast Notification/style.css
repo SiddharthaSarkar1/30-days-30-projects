@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Avro", sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background: #111111;
+  color: #ffffff;
+  overflow: hidden;
+}
+
+.heading {
+  padding-bottom: 50px;
+  font-size: 2rem;
+}
+#wrapper-toast {
+  position: absolute;
+  width: 350px;
+  padding: 20px;
+  right: 0;
+  top: 5%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  background: #fff;
+  color: #000;
+  border-radius: 5px;
+  transform: translateX(400px);
+  transition: 2s;
+}
+#wrapper-toast i {
+  font-size: 40px;
+  color: #2d2daf;
+}
+#wrapper-toast button {
+  position: absolute;
+  right: 20px;
+  top: 5px;
+  border: none;
+  background: transparent;
+  font-size: 25px;
+  cursor: pointer;
+}
+.btn-toast {
+  padding: 20px 50px;
+  border: none;
+  border-radius: 8px;
+  background: #fff;
+  color: #000;
+  font-size: 20px;
+  cursor: pointer;
+}
